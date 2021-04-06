@@ -1,9 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-#include <stdio.h>
+#include <stdio.h> //includes header file
 
 int main()
 {
-manipulating();
+manipulating(); 
 	return 0;
 };
