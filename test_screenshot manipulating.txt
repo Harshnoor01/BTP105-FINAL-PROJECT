@@ -1,0 +1,68 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+My
+Type the 2nd string:
+name
+Concatenated string is 'Myname'
+Type the 1st string (q - to quit):
+is
+Type the 2nd string:
+Harshnnor
+Concatenated string is 'isHarshnnor'
+Type the 1st string (q - to quit):
+Testing
+Type the 2nd string:
+project
+Concatenated string is 'Testingproject'
+Type the 1st string (q - to quit):
+1
+Type the 2nd string:
+2
+Concatenated string is '12'
+Type the 1st string (q - to quit):
+3
+Type the 2nd string:
+4
+Concatenated string is '34'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+2
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+final
+Type the 2nd string to compare:
+project
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+testing
+Type the 2nd string to compare:
+results
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+0
+Type the 2nd string to compare:
+q
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
