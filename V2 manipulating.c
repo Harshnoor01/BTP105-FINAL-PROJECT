@@ -59,3 +59,4 @@ void manipulating()
 	}
 
 	printf("*** End of Comparing Strings Demo ***\n\n");
+}
