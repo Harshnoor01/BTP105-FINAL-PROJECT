@@ -33,6 +33,7 @@ void manipulating()
 	printf("*** End of Concatenating Strings Demo ***\n\n");
 
 	printf("*** Start of Comparing Strings Demo ***\n");
+}
 
 	while (TRUE)
 	{
