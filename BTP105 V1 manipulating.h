@@ -9,7 +9,7 @@ Course Name :- BTP105NAA
 #include <stdio.h>  //includes header file
 #include <string.h> //used to calculate length of a string 
 
-#define TRUE 1      // daclaration of glabal constant 
+#define TRUE 1      // declaration of glabal constant 
 void manipulating();
 
 #endif // !_MANIPULATING_H
