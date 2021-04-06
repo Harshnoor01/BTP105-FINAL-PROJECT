@@ -16,16 +16,16 @@ void manipulating()
 		printf("Type the 1st string (q - to quit):\n");
 		scanf("%[^\n]", string1);
 		getchar();
-		
+
 		if (strcmp(string1, "q") == 0)
 		{
 			break;
 		}
-		
+
 		printf("Type the 2nd string:\n");
 		scanf("%[^\n]", string2);
 		getchar();
-		
+
 		strcat(string1, string2);
 
 		printf("Concatenated string is \'%s\'\n", string1);
@@ -33,7 +33,6 @@ void manipulating()
 	printf("*** End of Concatenating Strings Demo ***\n\n");
 
 	printf("*** Start of Comparing Strings Demo ***\n");
-}
 
 	while (TRUE)
 	{
@@ -87,3 +86,4 @@ void manipulating()
 	}
 
 	printf("*** End of Searchin Strings Demo ***\n\n");
+}
