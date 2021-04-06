@@ -1,4 +1,4 @@
-#pragma once 
+
 #ifndef _MANIPULATING_H
 #define _MANIPULATING_H
 
