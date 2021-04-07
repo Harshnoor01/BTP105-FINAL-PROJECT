@@ -15,7 +15,7 @@ void manipulating() //start of the function 'manipulating'
 
 	while (TRUE)                                             // Starting of an infinite loop 
 	{
-		printf("Type the 1st string (q - to quit):\n");  // prints the message while adding a new line
+		printf("Type the 1st string (q - to quit):\n");  // prints the message adding a new line with '\n' newline character
 		scanf("%[^\n]", string1);                        // accepts input from user and gives output of 'string1' 
 		getchar();                                       //reads the single line of input and each read returns to the next character until end of the buffer is reached.
 
