@@ -2,7 +2,7 @@
 
 #include <stdio.h> //includes header file
 
-int main()
+int main()    // main function starts from here
 {
 manipulating(); 
 	return 0;
