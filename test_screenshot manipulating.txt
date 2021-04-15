@@ -53,7 +53,23 @@ Type the 1st string to compare (q - to quit):
 q
 *** End of Comparing Strings Demo ***
 
-
+*** Start of Searching Strings Demo ***
+Type the big string (q - to quit):
+1
+Type the substring:
+2
+Not found
+Type the big string (q - to quit):
+0
+Type the substring:
+1
+Not found
+Type the big string (q - to quit):
+Testing
+Type the substring:
+string
+Not found
+Type the big string (q - to quit):
 
 
 
