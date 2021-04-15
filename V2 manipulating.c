@@ -11,7 +11,9 @@
 // VERSION #2 CODES
 
 	printf("*** Start of Comparing Strings Demo ***\n");                          // Starting message of string comparison module.
-
+        char compare1[80];                                                              //declaration of variable 'compare1'
+	char compare2[80];                                                              //declaration of variable 'compare2'
+	int result;
 	while (TRUE)                                                                   // Entry point to the loop.
 	{
 		printf("Type the 1st string to compare (q - to quit):\n");
