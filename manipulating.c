@@ -22,6 +22,9 @@ void manipulating()
 	char string2[80];                                                               //declaration of character array 'string2' 
 	char compare1[80];                                                              //declaration of variable 'compare1'
 	char compare2[80];                                                              //declaration of variable 'compare2'
+	char big_string[80];                                                            //declaration of varibale 'big_string'
+	char sub_string[80];                                                            //declaration of variable 'sub_string'
+	char* address ;
 	int result;
 
 	while (TRUE)                                                                    // Entry point to the loop.
@@ -68,7 +71,7 @@ void manipulating()
 	}
 	printf("*** End of Comparing Strings Demo ***\n\n");                         // Ending message of string comparison module.
 
-}
+
 
         
 //	VERSION #3 CODES
