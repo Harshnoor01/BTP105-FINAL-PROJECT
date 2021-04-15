@@ -9,7 +9,9 @@
 //	VERSION #3 CODES
 
 	printf("*** Start of Searching Strings Demo ***\n");                        //starting message of searching module
-
+       char big_string[80];
+	char sub_string[80];
+	char* address ;
 	while (TRUE)                                                                // entry point to loop
 	{
 		printf("Type the big string (q - to quit):\n");
